@@ -1,0 +1,25 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body{
+  background-image: url(img/numeri.jpg);
+}
+
+.ultimo{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+
+h1{
+  color: indigo;
+  font-family: 'Fira Sans', sans-serif;
+  font-family: 'Source Sans Pro', sans-serif;
+  font-family: 'Roboto Mono', monospace;
+  font-size: 45px;
+}
