@@ -1,0 +1,28 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+  background-color: cornflowerblue;
+}
+
+.messaggio{
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  height: 100%;
+}
+
+
+h1{
+  color:red;
+  font-family: 'Fira Sans', sans-serif;
+  font-family: 'Source Sans Pro', sans-serif;
+  font-family: 'Roboto Slab', serif;
+}
+
+img{
+  margin-top: 100px;
+}
